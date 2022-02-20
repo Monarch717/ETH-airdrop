@@ -1,4 +1,4 @@
-# 🏗 Monarch-Airdrop
+#  Monarch-Airdrop
 
 > everything you need to build on Ethereum! 🚀
 
@@ -18,7 +18,7 @@ git clone https://github.com/Monarch717/ETH-airdrop.git
 > install and start your 👷‍ Hardhat chain:
 
 ```bash
-cd ETH-airdrop
+cd eth-airdrop
 yarn install
 yarn chain
 ```
@@ -26,13 +26,13 @@ yarn chain
 > in a second terminal window, start your 📱 frontend:
 
 ```bash
-cd ETH-airdrop
+cd eth-airdrop
 yarn start
 ```
 
 > in a third terminal window, 🛰 deploy your contract:
 
 ```bash
-cd ETH-airdrop
+cd eth-airdrop
 yarn deploy
 ```
